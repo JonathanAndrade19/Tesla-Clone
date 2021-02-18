@@ -19,7 +19,7 @@ const DefaultOverLayContent: React.FC<Props> = ({
 
       <Buttons>
         <button>Custom Order</button>
-        <button className="White">Existing Inventory</button>  
+        <button className="white">Existing Inventory</button>  
       </Buttons>
     </Container>
   );
